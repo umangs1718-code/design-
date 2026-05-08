@@ -6,7 +6,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const designers = [
   {
-    name: "Sophia Carter",
+    name: "Modani",
     role: "Lead Interior Designer",
     img: "https://www.yudiz.com/codepen/interior-design/team-1.jpg",
     bio: "Specialized in luxury modern interiors with 12+ years experience."
