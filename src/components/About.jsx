@@ -30,7 +30,7 @@ export default function About() {
             }}
             transition={{ duration: 0.8 }}
           >
-            About Our Studio
+            About Us
           </motion.h2>
 
           <motion.p
