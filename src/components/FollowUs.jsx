@@ -38,8 +38,7 @@ export default function FollowUs() {
       >
         <h2>Stay Inspired With Us</h2>
         <p>
-          Discover curated luxury interiors, design processes, and timeless
-          architecture inspiration across our creative platforms.
+          Discover curated luxury interiors, design processes 
         </p>
       </motion.div>
 
