@@ -14,7 +14,7 @@ export default function Contact() {
       >
         <h2>Let’s Design Your Dream Space</h2>
         <p className="contact-sub">
-          We create timeless, elegant and luxurious interiors tailored to your vision.
+          We create timeless, elegant and luxurious interiors tailored to your vision and idea.
         </p>
 
         <div className="contact-grid">
