@@ -41,7 +41,7 @@ export default function About() {
             transition={{ duration: 0.8 }}
           >
             We are a luxury interior design studio crafting timeless,
-            elegant and emotionally inspiring spaces.
+            elegant and emotionally inspiring space.
           </motion.p>
 
           <motion.p
